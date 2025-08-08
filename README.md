@@ -9,6 +9,7 @@ The goal is to give a complete, educational look into how modern **transformer-b
 ## 📂 Project Structure
 ```
 ├── gpt2_from_scratch.ipynb   # Main Jupyter notebook with full implementation
+├── gutenberg.txt             # Data File
 ├── README.md                 # Project documentation
 ```
 

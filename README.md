@@ -53,8 +53,8 @@ The goal is to give a complete, educational look into how modern **transformer-b
 ## 📓 How to Use
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/omardaklaoui/gpt2-from-scratch.git
-   cd gpt2-from-scratch
+   git clone https://github.com/omardaklaoui/LLM_from_Scratch-GPT2.git
+   cd LLM_from_Scratch-GPT2
    ```
 2. **Open the notebook**
    ```bash
